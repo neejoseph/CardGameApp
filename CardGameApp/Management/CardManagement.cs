@@ -323,12 +323,12 @@ namespace CardGameApp.Management
                 {
                     if (player1.DrawPile.Count == 0)
                     {
-                        Console.WriteLine("There are no more cards in the drw pile of Player 1");
+                        Console.WriteLine("There are no more cards in the draw pile of Player 1");
                         break;
                     }
                     if (player2.DrawPile.Count == 0)
                     {
-                        Console.WriteLine("There are no more cards in the drw pile of Player 2");
+                        Console.WriteLine("There are no more cards in the draw pile of Player 2");
                         break;
                     }
                    
